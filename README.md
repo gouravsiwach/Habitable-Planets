@@ -15,7 +15,7 @@ PS C:\Users\dell\Desktop\Habitable Planets> node index.js
 8 habitable planets found!
 
 Tools Used ⚙️
-NodeJs
-Create File Stream API
-Parse-CSV library
+NodeJs,
+Create File Stream API,
+Parse-CSV library,
 Kepler data ( in csv format )
